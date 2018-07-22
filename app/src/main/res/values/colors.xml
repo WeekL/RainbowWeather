@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--RecyclerView itemColor-->
+    <color name="blueItem">#49accc</color>
+    <color name="blueItemDark">#3299ba</color>
+    <color name="yellowItem">#e19f41</color>
+    <color name="yellowItemDark">#c88e3c</color>
+    <color name="purpleItem">#9b79c6</color>
+    <color name="purpleItemDark">#8463b6</color>
+    <color name="tealItem">#82cfbf</color>
+    <color name="tealItemDark">#6bbdab</color>
+    <color name="redItem">#fa7a65</color>
+    <color name="redItemDark">#f3614f</color>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RainbowWeather</string>
+    <!--和风天气认证key-->
+    <string name="weather_key">8427073851224a908c49e31798ff63f3</string>
+    <string name="weather_username">HE1711281025361733</string>
+    <string name="weather_baseUrl">https://free-api.heweather.com/s6/weather/</string>
+
+    <string name="white_point">·</string>
+    <string name="celsius">°</string>
+
+</resources>

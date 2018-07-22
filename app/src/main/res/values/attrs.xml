@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Indicator">
+        <attr name="itemCount" format="integer" />
+        <attr name="allowCircle" format="boolean" />
+        <attr name="itemSrc" format="reference" />
+        <attr name="itemSize" format="dimension" />
+        <attr name="itemMargin" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="IndicatorView">
+        <attr name="indicator_icon" format="reference" />
+        <!-- item间隔 -->
+        <attr name="indicator_interval" format="dimension" />
+        <!-- 实时滑动 -->
+        <attr name="indicator_smooth" format="boolean" />
+    </declare-styleable>
+</resources>
